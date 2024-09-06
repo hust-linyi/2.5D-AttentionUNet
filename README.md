@@ -98,5 +98,14 @@ Results of different models
 ## Citation
 Please cite the paper if you use the code.
 ```bibtex
-TOBEADDED
+@article{li2024automatic,
+  title={Automatic segmentation of fat metaplasia on sacroiliac joint MRI using deep learning},
+  author={Li, Xin and Lin, Yi and Xie, Zhuoyao and Lu, Zixiao and Song, Liwen and Ye, Qiang and Wang, Menghong and Fang, Xiao and He, Yi and Chen, Hao and others},
+  journal={Insights into Imaging},
+  volume={15},
+  number={1},
+  pages={93},
+  year={2024},
+  publisher={Springer}
+}
 ```
